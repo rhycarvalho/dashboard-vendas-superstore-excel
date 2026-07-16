@@ -39,6 +39,3 @@ Excel — Tabela estruturada, `SOMASE`/`SUMIFS`, formatação condicional, gráf
 1. A região **West** lidera em vendas (US$ 739,8 mil) e também tem a melhor margem (15,0%). A região **Central** vende bem menos e tem a pior margem (7,9%), sugerindo custos operacionais ou descontos mais altos por lá.
 2. As subcategorias **Tables** (-US$ 17,8 mil), **Bookcases** (-US$ 3,6 mil) e **Supplies** (-US$ 1,2 mil) dão prejuízo mesmo com vendas relevantes — provável efeito de desconto excessivo nesses itens.
 3. As vendas têm pico em **novembro e dezembro** (ex: nov/2026 com US$ 118,5 mil), compatível com sazonalidade de fim de ano/Black Friday.
-
-## Próximos passos
-Refazer a mesma análise em SQL e depois em Python, usando o mesmo dataset — para mostrar evolução de ferramenta sobre a mesma base de dados.
